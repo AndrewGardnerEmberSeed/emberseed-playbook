@@ -7,4 +7,4 @@ the tools, the time and cost, and what to watch out for.
 Live at https://andrewgardneremberseed.github.io/emberseed-playbook/ and https://emberseedautomation.com.au/playbook
 
 This repository holds only the published page. It is built from a private source by EmberSeed, a trading name of
-Wilderness Properties Pty Ltd (ACN 614 946 897), so changes made here are replaced at the next build.
+First Beer Club Trading Pty Ltd (ACN 635 895 304), so changes made here are replaced at the next build.
